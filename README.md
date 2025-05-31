@@ -11,9 +11,9 @@ A full-stack blog written in Java and TypeScript using Spring Boot and Reactjs.
 You can also download jar file of the project from here(https://drive.google.com/file/d/1KB06OygW2SYx14Dg0KDa1Y7WclG_6FL7/view?usp=sharing) but remember to keep the settings of application properties as it is and use the settings below
 
 MYSQL settings
-1. Database user = root
-2. Database password =
-3. Database name = blog
+ Database user = root
+ Database password =
+ Database name = blog
 
    OR
 
