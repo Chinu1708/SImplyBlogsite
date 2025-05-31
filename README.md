@@ -8,7 +8,13 @@ A full-stack blog written in Java and TypeScript using Spring Boot and Reactjs.
   2. Run the MySQL Server
   
 ### Backend: 
-  
+You can also download jar file of the project from here(https://drive.google.com/file/d/1KB06OygW2SYx14Dg0KDa1Y7WclG_6FL7/view?usp=sharing) but remember to keep the settings of application properties as it is and use the settings below
+
+MYSQL settings
+Database user = root
+Database password = 
+Database name = blog
+
   1. Open the ```backend``` folder with InteliJIDEA or Eclipse
   2. Right click on the ```pom.xml``` file and with the maven option select ```Reload the project``` it will automatically download 
      the dependencies
