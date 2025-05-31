@@ -15,6 +15,8 @@ MYSQL settings
 2. Database password =
 3. Database name = blog
 
+   OR
+
   1. Open the ```backend``` folder with InteliJIDEA or Eclipse
   2. Right click on the ```pom.xml``` file and with the maven option select ```Reload the project``` it will automatically download 
      the dependencies
